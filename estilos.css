@@ -1,0 +1,105 @@
+/** HOJA DE ESTILOS**/
+
+/*BODY*/
+body{
+    font-size: 16px;
+}
+
+/*SECTION*/
+#px{
+    font-size: 14px;
+}
+
+div.padre{
+    font-size: 15px;
+}
+div #em{
+    font-size: 1em;
+}
+
+#ex{
+    font-size: 4ex;
+}
+
+#rem{
+    font-size: 1rem;
+}
+
+#in{
+    font-size: 1in;
+}
+
+#cm{
+    font-size: 1cm;
+}
+
+#mm{
+    font-size: 5mm;
+}
+
+#pt{
+    font-size: 12pt;
+}
+
+#pc{
+    font-size: 1pc;
+}
+
+#porcentuales{
+    font-size: 80%;
+}
+
+div p#violeta{
+    border: 1px solid red;
+    background-color: violet;
+}
+
+div #decimal{
+    border: 1px solid red;
+    background-color: rgb(255, 99, 71);
+}
+
+div #hx{
+    border: 1px solid green;
+    background-color: #af1948;
+}
+
+div #color-porcentual{
+    border: 1px solid green;
+    background-color: hsl(240, 100%, 50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
